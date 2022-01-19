@@ -1,7 +1,5 @@
 ![Screenshot (37)](https://user-images.githubusercontent.com/75515498/150067805-fad1acde-589d-40da-b4b1-57a614e348ec.png)
 
-# anime-terminal
-
 A cli to browse, watch and download anime.
 
 Watch your favorite anime from *nix terminal. You don't need a browser to watch anime now.
