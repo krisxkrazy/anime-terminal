@@ -21,7 +21,7 @@ This tool scrapes the site [gogoanime](https://gogoanime.cm).
 # Installation
 Make sure you've installed all the dependencies on your system.
 ```
-git clone https://github.com/whoisYoges/anime-terminal
+git clone https://github.com/krisxkrazy/anime-terminal
 cd anime-terminal
 chmod +x anime-terminal
 sudo cp anime-terminal /usr/local/bin/
